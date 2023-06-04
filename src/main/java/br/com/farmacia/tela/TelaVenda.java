@@ -1,4 +1,4 @@
-package br.com.farmacia;
+package br.com.farmacia.tela;
 
 import java.awt.EventQueue;
 

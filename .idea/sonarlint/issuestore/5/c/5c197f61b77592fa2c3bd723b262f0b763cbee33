@@ -1,0 +1,36 @@
+
+J
+java:S3740"/Provide the parametrized type for this generic.(Ù…·…ıÿÿÿÿ
+J
+java:S3740"/Provide the parametrized type for this generic.(Ù…·…ıÿÿÿÿ
+E
+java:S3740F"/Provide the parametrized type for this generic.(•ûö£
+k	java:S117J"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äàÇåùÿÿÿÿ
+f	java:S117S"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ü‰·
+k	java:S117\"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’‹´±ıÿÿÿÿ
+f	java:S117e"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÖûÎ
+f	java:S117n"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îÁªš
+e	java:S117w"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óÛĞ#
+g	java:S117€"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üƒë¼
+l	java:S117‰"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚á‡ªùÿÿÿÿ
+g	java:S117·"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇÒ±
+g	java:S117À"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÉÒ˜“
+g	java:S117É"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªÎª
+C
+java:S1604*"(Make this anonymous inner class a lambda(¤©Òâüÿÿÿÿ
+D
+java:S1604“"(Make this anonymous inner class a lambda(Ì­›àÿÿÿÿÿ
+k
+java:S2095™"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(×Êı‰ÿÿÿÿÿ
+p	java:S116"VRename this field "textField_1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€ş‡şÿÿÿÿ
+k	java:S116"VRename this field "textField_2" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Î©üñ
+p	java:S116"VRename this field "textField_3" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«Ş”üÿÿÿÿ
+j	java:S116"VRename this field "textField_4" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾®¨@
+k	java:S116"VRename this field "textField_5" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§ƒñ…
+k	java:S116 "VRename this field "textField_6" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰ê
+k	java:S116!"VRename this field "textField_7" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•Úêø
+p	java:S116""VRename this field "textField_8" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıÓ‹³øÿÿÿÿ
+k	java:S116#"VRename this field "textField_9" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚Ş²‹
+q	java:S116$"WRename this field "textField_10" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øÅíÜüÿÿÿÿ
+d
+java:S3252:"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(Õû»öşÿÿÿÿ

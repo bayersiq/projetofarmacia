@@ -1,4 +1,4 @@
-package br.com.farmacia;
+package br.com.farmacia.tela;
 
 import java.awt.EventQueue;
 import java.awt.event.ActionEvent;
@@ -12,10 +12,8 @@ import javax.swing.border.EmptyBorder;
 
 import br.com.farmacia.conexao.ConectaBanco;
 
-import javax.swing.JTextPane;
 import javax.swing.JLabel;
 import javax.swing.JOptionPane;
-import javax.swing.JSplitPane;
 import javax.swing.JTextField;
 import javax.swing.JComboBox;
 import javax.swing.DefaultComboBoxModel;

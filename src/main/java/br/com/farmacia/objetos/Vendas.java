@@ -1,4 +1,4 @@
-package br.com.farmacia.classe;
+package br.com.farmacia.objetos;
 
 public class Vendas {
 
